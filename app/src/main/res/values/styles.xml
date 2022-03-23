@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="MyTextInputLayout_overlay">
+        <item name="colorOnSurface">#686868</item>
+        <item name="colorPrimary">@color/white</item>
+    </style>
+</resources>
